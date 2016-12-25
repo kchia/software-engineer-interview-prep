@@ -1,4 +1,4 @@
-# software-engineer-interview-resources
+# software-engineer-interview-syllabus
 
 ## BASIC
 ### Big-O Complexity
