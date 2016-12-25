@@ -49,7 +49,7 @@
 - [Toy Problem Solutions](https://docs.google.com/document/d/1QPkkHuT_G6aZH_5OaLUFM9Sf5ugCKjM2gFYLM7MXpSI/edit?usp=sharing) 
 - [Outco](https://github.com/alexung/outco-study-guide/blob/master/hwStudyGuide.js)
 - Interview Cake
-- HiredInTech
+- [HiredInTech](https://www.hiredintech.com/)
 - InterviewKickstart
 - Elements of Programming Interviews Book
 - CodeEval
