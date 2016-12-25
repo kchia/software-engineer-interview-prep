@@ -4,27 +4,27 @@
 ### Big-O Complexity
 ### Recursion
 ### Sorting Algorithms
-#### Bubble Sort
-#### Selection Sort
-#### Quick Sort
-#### Merge Sort
-#### Heap Sort
-#### Radix Sort
+- Bubble Sort
+- Selection Sort
+- Quick Sort
+- Merge Sort
+- Heap Sort
+- Radix Sort
 
 ## INTERMEDIATE
 ### Linear Data Structures
-#### Arrays, Strings, & Hash Tables
-#### Linked Lists
-#### Stacks
-#### Queues
+- Arrays, Strings, & Hash Tables
+- Linked Lists
+- Stacks
+- Queues
 
 ### Hierarchical Data Structures
-#### Binary Trees
-#### Heaps
-#### Tries
-#### Graphs
-#### Suffix Trees
-#### Interval Trees
+- Binary Trees
+- Heaps
+- Tries
+- Graphs
+- Suffix Trees
+- Interval Trees
 
 ### Recursive Sorting Algorithms
 
@@ -38,7 +38,7 @@
 - highscalability.com
 
 ### Software Architecture/Design
-#### Object-Oriented Design
+- Object-Oriented Design
 
 ### Dynamic Programming/Memoization
 
