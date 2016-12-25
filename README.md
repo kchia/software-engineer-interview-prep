@@ -45,7 +45,7 @@
 ## RESOURCES
 - [Cracking the Coding Interview Book](https://drive.google.com/file/d/0B7ERENZtSqGiTGRMMm1zWFduS0E/view)
 - [Programming Interviews Exposed: Secrets to Landing Your Next Job Book](http://img105.job1001.com/upload/adminnew/2015-04-03/1428055089-N7PTLH6.pdf)
-- Toy Problems
+- [Toy Problems](https://github.com/kchia/2014-12-toy-problems)
 - [Toy Problem Solutions](https://docs.google.com/document/d/1QPkkHuT_G6aZH_5OaLUFM9Sf5ugCKjM2gFYLM7MXpSI/edit?usp=sharing) 
 - Interview Cake
 - HiredInTech
