@@ -36,7 +36,6 @@
 
 ### MASTERY
 #### Systems Design
-- highscalability.com
 
 #### Software Architecture/Design
 - Object-Oriented Design
@@ -44,12 +43,14 @@
 #### Dynamic Programming/Memoization
 
 ## RESOURCES
+- [Cracking the Coding Interview Book](https://drive.google.com/file/d/0B7ERENZtSqGiTGRMMm1zWFduS0E/view)
+- [Programming Interviews Exposed: Secrets to Landing Your Next Job Book](http://img105.job1001.com/upload/adminnew/2015-04-03/1428055089-N7PTLH6.pdf)
+- Toy Problems
+- [Toy Problem Solutions](https://docs.google.com/document/d/1QPkkHuT_G6aZH_5OaLUFM9Sf5ugCKjM2gFYLM7MXpSI/edit?usp=sharing) 
 - Interview Cake
 - HiredInTech
 - InterviewKickstart
-- [Cracking the Coding Interview Book](https://drive.google.com/file/d/0B7ERENZtSqGiTGRMMm1zWFduS0E/view)
 - Elements of Programming Interviews Book
-- [Programming Interviews Exposed: Secrets to Landing Your Next Job Book](http://img105.job1001.com/upload/adminnew/2015-04-03/1428055089-N7PTLH6.pdf)
 - CodeEval
 - Hackerrank
 - CodingBat
@@ -59,6 +60,7 @@
 - Codechef
 - UVA Online Judge
 - Glassdoor for real problems
+- highscalability.com
 - www.geeksforgeeks.org
 - www.careercup.com
 - www.projecteuler.net
