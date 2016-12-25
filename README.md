@@ -49,7 +49,7 @@
 - InterviewKickstart
 - [Cracking the Coding Interview Book](https://drive.google.com/file/d/0B7ERENZtSqGiTGRMMm1zWFduS0E/view)
 - Elements of Programming Interviews Book
-- Programming Interviews Exposed: Secrets to Landing Your Next Job Book
+- [Programming Interviews Exposed: Secrets to Landing Your Next Job Book](http://img105.job1001.com/upload/adminnew/2015-04-03/1428055089-N7PTLH6.pdf)
 - CodeEval
 - Hackerrank
 - CodingBat
