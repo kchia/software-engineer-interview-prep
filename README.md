@@ -47,7 +47,7 @@
 - Interview Cake
 - HiredInTech
 - InterviewKickstart
-- Cracking the Coding Interview Book
+- [Cracking the Coding Interview Book](https://drive.google.com/file/d/0B7ERENZtSqGiTGRMMm1zWFduS0E/view)
 - Elements of Programming Interviews Book
 - Programming Interviews Exposed: Secrets to Landing Your Next Job Book
 - CodeEval
