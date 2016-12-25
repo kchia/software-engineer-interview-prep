@@ -1,4 +1,4 @@
-# software-engineer-interview-syllabus
+# SOFTWARE ENGINEER INTERVIEW PREP
 
 ## BASIC
 ### Big-O Complexity
@@ -43,7 +43,7 @@
 ### Dynamic Programming/Memoization
 
 
-## Other Topics
+## NON-TECHNICAL TOPICS
 ### Behavioral Questions
 ### Resume
 ### Cover Letter
