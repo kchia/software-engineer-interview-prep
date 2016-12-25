@@ -8,6 +8,7 @@
 #### Selection Sort
 #### Quick Sort
 #### Merge Sort
+#### Heap Sort
 #### Radix Sort
 
 ## INTERMEDIATE
