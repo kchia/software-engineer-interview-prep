@@ -1,46 +1,47 @@
 # SOFTWARE ENGINEER INTERVIEW PREP
 
-## BASIC
-### Big-O Complexity
-### Recursion
-### Sorting Algorithms
+## TECHNICAL TOPICS
+### BASIC
+#### Big-O Complexity
+#### Recursion
+#### Sorting Algorithms
 - Bubble Sort
 - Selection Sort
-- Quick Sort
-- Merge Sort
-- Heap Sort
+- Insertion Sort
 - Radix Sort
 
-## INTERMEDIATE
-### Linear Data Structures
+### INTERMEDIATE
+#### Linear Data Structures
 - Arrays, Strings, & Hash Tables
 - Linked Lists
 - Stacks
 - Queues
 
-### Hierarchical Data Structures
+#### Hierarchical Data Structures
 - Binary Trees
 - Heaps
 - Tries
-- Graphs
 - Suffix Trees
 - Interval Trees
 
-### Recursive Sorting Algorithms
+#### Recursive Sorting Algorithms
+- Quick Sort
+- Merge Sort
+- Heap Sort
 
-## ADVANCED
-### Associative Data Structures
-### Graph Data Structures
-### Advanced Recursion
+### ADVANCED
+#### Associative Data Structures
+#### Graph Data Structures
+#### Advanced Recursion
 
-## MASTERY
-### Systems Design
+### MASTERY
+#### Systems Design
 - highscalability.com
 
-### Software Architecture/Design
+#### Software Architecture/Design
 - Object-Oriented Design
 
-### Dynamic Programming/Memoization
+#### Dynamic Programming/Memoization
 
 
 ## NON-TECHNICAL TOPICS
