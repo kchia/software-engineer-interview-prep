@@ -1,28 +1,27 @@
 # software-engineer-interview-resources
 
 ## BASIC
-### Complexity
+### Big-O Complexity
 ### Recursion
 ### Sorting Algorithms
 #### Bubble Sort
+#### Selection Sort
 #### Quick Sort
 #### Merge Sort
-####
+#### Radix Sort
 
 ## INTERMEDIATE
 ### Linear Data Structures
-#### Arrays
-#### Strings
-#### Hash Tables
+#### Arrays, Strings, & Hash Tables
 #### Linked Lists
 #### Stacks
 #### Queues
 
 ### Hierarchical Data Structures
 #### Binary Trees
-#### Graphs
 #### Heaps
 #### Tries
+#### Graphs
 #### Suffix Trees
 #### Interval Trees
 
@@ -44,6 +43,7 @@
 
 
 ## Other Topics
+### Behavioral Questions
 ### Resume
 ### Cover Letter
 ### LinkedIn Profile
