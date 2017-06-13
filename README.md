@@ -70,7 +70,7 @@
 - https://www.interviewcake.com/big-o-notation-time-and-space-complexity
 - http://bigocheatsheet.com/
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/#creationalpatternjavascript
-
+- https://www.pramp.com/#/
 
 ## NON-TECHNICAL TOPICS
 ### Behavioral Questions
